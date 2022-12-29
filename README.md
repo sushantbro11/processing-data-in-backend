@@ -11,6 +11,10 @@ set entry point: (calc.js)
 <br>
 npm install express
 <br>
+You also need to install body-parser
+<br>
+npm install body-parser
+<br>
 
 - this must be done inside the folder in which our files resides using the terminal.
 
