@@ -9,11 +9,11 @@ to use node and express js to run this
 <br>
 set entry point: (calc.js)
 <br>
-npm install express
+-npm install express
 <br>
 You also need to install body-parser
 <br>
-npm install body-parser
+-npm install body-parser
 <br>
 
 - this must be done inside the folder in which our files resides using the terminal.
